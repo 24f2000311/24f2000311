@@ -108,7 +108,7 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 <td>
 
 <a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=24f2000311&theme=ayu-light&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=24f2000311&theme=vision-friendly-dark&hide_border=true"/>
 </a>
 
 </td>
