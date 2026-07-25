@@ -86,7 +86,6 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 # 🏆 Achievements
 
 - 🧩 Solved **450+ DSA Problems**
-- 🌟 Open Source Contributor
 - 🏅 Regional Coordinator — IIT Madras Student Government
 - 💙 Membership Development Director — Rotaract Club
 - 🎯 Technical Coordinator — DYPCOE
