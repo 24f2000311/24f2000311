@@ -1,53 +1,195 @@
 <div align="center">
-  
+
+# 👋 Hello there! I'm Madhav Aghav
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Hi,%20I'm%20Madhav%20Aghav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner">
+
+**Full Stack Developer • Software Engineer • AI Enthusiast**  
+📍 Pune, India
   <p align="center">
-    <h1 align="center">Madhav Aghav</h1>
-    <h3 align="center" style="color: #71717A;">|| अन्वेषक ||</h3>
+    <a href="https://madhavaghav.in" target="_blank"><img src="https://img.shields.io/badge/🌍_Portfolio-f3f4f6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
   
-  <p align="center">
-    <i>Building scalable backend systems, modern web applications, and AI-powered solutions.</i><br>
-    📍 Pune, 412101
-  </p>
-
-  <br>
-
-  <p align="center">
-    <a href="https://madhavaghav.in" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-09090B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/madhav-aghav" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/anshu-03/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-09090B?style=for-the-badge&logo=leetcode&logoColor=10B981" alt="LeetCode" />
-    </a>
-    <a href="mailto:madhavaghav17@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <br/>
   
-  <br>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=0077B5&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems...;Crafting+Modern+Web+Applications...;Exploring+AI+Engineering...;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
   
-  <a href="https://open.spotify.com/search/Barsaat%20Banjaare%20%26%20Roni" target="_blank">
-    <img src="https://img.shields.io/badge/Current_Jam-Barsaat_(Banjaare_&_Roni)-09090B?style=flat-square&logo=spotify&logoColor=10B981" alt="Spotify">
-  </a>
-
 </div>
 
-<br><br>
+Building scalable backend systems, modern web applications, and AI-powered solutions.
+---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0366D6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New!)](https://git.io/typing-svg)
+<table align="center" style="border:none;">
+<tr>
+<td width="55%" valign="top">
+
+<p align="center">
+  <a href="https://madhavaghav.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-f3f4f6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+### 👨‍💻 About Me
+
+</div>
+*Building scalable backend systems, modern web applications, and AI-powered solutions from **Pune, India**.*
+
+---
+- 🎓 **B.Tech IT** @ DY Patil College of Engineering
+- 🎓 **BS in Data Science** @ IIT Madras
+- 🌱 Currently deep-diving into **System Design, Cloud Computing, & AI**
+- 🚀 Passionate about building robust architectures and distributed systems
+- 🤝 Open for **Software Engineering, Backend & AI roles**
+
+## 💫 About Me
+### 🏆 Milestones & Leadership
+
+- 🎓 **B.Tech Information Technology** @ DY Patil College of Engineering, Pune
+- 🎓 **BS in Data Science** @ IIT Madras
+- 💻 Passionate about **Backend Development, Distributed Systems & AI**
+- 🌱 Currently exploring **System Design, Cloud Computing & AI Engineering**
+- 🚀 Love building scalable, production-ready applications
+- 🤝 Open to **Software Engineering, Backend & AI opportunities**
+- 🧩 Solved **450+** Data Structures & Algorithms problems
+- 🏅 **Regional Coordinator** — IIT Madras Student Government
+- 💙 **Membership Development Director** — Rotaract Club
+- 🎯 **Technical Coordinator** — DYPCOE
+
+---
+</td>
+<td width="45%" valign="top">
+
+## 🛠 Tech Stack
+### 🛠️ Tech Stack & Tools
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Backend & APIs** <br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-E76F00?style=flat&logo=java&logoColor=white">
+
+**Backend**  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Frontend** <br>
+<img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+
+**Frontend**  
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Databases & Infrastructure** <br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+
+**Database & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+### 🚀 Featured Projects
+
+<table align="center" style="border:none;">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🏕️ Aarohan</h4>
+      <p>A full-stack Trekking Management Platform featuring JWT auth, bookings, reviews, notifications, and scheduled Celery jobs.</p>
+      <p><i>Flask, Vue.js, PostgreSQL, Redis</i></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 Personal CMS</h4>
+      <p>A modern content management platform with an Admin Dashboard, Markdown support, blogs, digital garden, and cloud deployment.</p>
+      <p><i>Node.js, Express, MongoDB</i></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎓 PratibhaSetu</h4>
+      <p>Placement Management Portal with dedicated dashboards for Students, Recruiters, and Admins, plus workflow analytics.</p>
+      <p><i>Vue.js, REST API, Database Integration</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏕 [Aarohan](https://github.com/24f2000311)
+> A full-stack Trekking Management Platform built with Flask, Vue.js, PostgreSQL, Redis & Celery featuring JWT authentication, bookings, reviews, notifications and scheduled background jobs.
+### 📈 GitHub Analytics
+
+<div align="center">
+  
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=24f2000311&theme=onestar&no-frame=true&no-bg=true&margin-w=15" alt="Madhav's Trophies" />
+  </a>
+
+### 🌐 [Personal CMS](https://madhavaghav.in)
+> A modern content management platform with Admin Dashboard, Markdown support, image uploads, authentication, blogs, digital garden, and cloud deployment.
+  <br/><br/>
+  
+  <!-- Stats side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=24f2000311&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0077B5" alt="Madhav's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2000311&theme=default&hide_border=true&background=ffffff&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="Madhav's GitHub streak" width="48%" />
+  
+</div>
+
+### 🎓 [PratibhaSetu](https://github.com/24f2000311)
+> Placement Management Portal with Student, Recruiter and Admin dashboards, application workflow and analytics.
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" alt="Footer Wave">
+</div>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Hi,%20I'm%20Madhav%20Aghav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner">
+
+  <p align="center">
+    <a href="https://madhavaghav.in" target="_blank"><img src="https://img.shields.io/badge/🌍_Portfolio-f3f4f6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=0077B5&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems...;Crafting+Modern+Web+Applications...;Exploring+AI+Engineering...;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+  
+</div>
+
+---
+
+## 🏆 Achievements
 <table align="center" style="border:none;">
 <tr>
 <td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech Information Technology** @ DY Patil College of Engineering
+- 🧩 Solved **450+ DSA Problems**
+*Building scalable backend systems, modern web applications, and AI-powered solutions from **Pune, India**.*
+
+- 🎓 **B.Tech IT** @ DY Patil College of Engineering
 - 🎓 **BS in Data Science** @ IIT Madras
-- 🌱 Currently deep-diving into **System Design, Cloud Computing, & AI Engineering**
-- 🚀 Passionate about robust architectures and distributed systems
-- 🤝 Open to **Software Engineering, Backend & AI roles**
+- 🌱 Currently deep-diving into **System Design, Cloud Computing, & AI**
+- 🚀 Passionate about building robust architectures and distributed systems
+- 🤝 Open for **Software Engineering, Backend & AI roles**
 
 ### 🏆 Milestones & Leadership
 
@@ -59,16 +201,16 @@
 </td>
 <td width="45%" valign="top">
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 **Backend & APIs** <br>
-<img src="https://img.shields.io/badge/Node.js-FBFBFB?style=flat-square&logo=nodedotjs&logoColor=09090B"> <img src="https://img.shields.io/badge/Express-FBFBFB?style=flat-square&logo=express&logoColor=09090B"> <img src="https://img.shields.io/badge/Flask-FBFBFB?style=flat-square&logo=flask&logoColor=09090B"> <img src="https://img.shields.io/badge/Python-FBFBFB?style=flat-square&logo=python&logoColor=09090B"> <img src="https://img.shields.io/badge/C++-FBFBFB?style=flat-square&logo=cplusplus&logoColor=09090B"> <img src="https://img.shields.io/badge/Java-FBFBFB?style=flat-square&logo=java&logoColor=09090B">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-E76F00?style=flat&logo=java&logoColor=white">
 
 **Frontend** <br>
-<img src="https://img.shields.io/badge/Vue.js-FBFBFB?style=flat-square&logo=vuedotjs&logoColor=09090B"> <img src="https://img.shields.io/badge/JavaScript-FBFBFB?style=flat-square&logo=javascript&logoColor=09090B"> <img src="https://img.shields.io/badge/HTML5-FBFBFB?style=flat-square&logo=html5&logoColor=09090B"> <img src="https://img.shields.io/badge/CSS3-FBFBFB?style=flat-square&logo=css3&logoColor=09090B">
+<img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 **Databases & Infrastructure** <br>
-<img src="https://img.shields.io/badge/PostgreSQL-FBFBFB?style=flat-square&logo=postgresql&logoColor=09090B"> <img src="https://img.shields.io/badge/MongoDB-FBFBFB?style=flat-square&logo=mongodb&logoColor=09090B"> <img src="https://img.shields.io/badge/Redis-FBFBFB?style=flat-square&logo=redis&logoColor=09090B"> <img src="https://img.shields.io/badge/SQLite-FBFBFB?style=flat-square&logo=sqlite&logoColor=09090B"> <img src="https://img.shields.io/badge/Linux-FBFBFB?style=flat-square&logo=linux&logoColor=09090B">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 
 </td>
 </tr>
@@ -81,17 +223,17 @@
 <table align="center" style="border:none;">
   <tr>
     <td width="33%" valign="top">
-      <h4>🏕️ <a href="https://aarohan.madhavaghav.in" style="color:#09090B; text-decoration:none;">Aarohan</a></h4>
+      <h4>🏕️ Aarohan</h4>
       <p>A full-stack Trekking Management Platform featuring JWT auth, bookings, reviews, notifications, and scheduled Celery jobs.</p>
-      <p><i><a href="https://madhavaghav.in/projects/aarohan-trekking-management-application">Read Case Study →</a></i></p>
+      <p><i>Flask, Vue.js, PostgreSQL, Redis</i></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🌐 <a href="https://madhavaghav.in" style="color:#09090B; text-decoration:none;">Personal CMS</a></h4>
+      <h4>🌐 Personal CMS</h4>
       <p>A modern content management platform with an Admin Dashboard, Markdown support, blogs, digital garden, and cloud deployment.</p>
-      <p><i><a href="https://github.com/24f2000311/Portfoilo-Backend">View Backend API Repo →</a></i></p>
+      <p><i>Node.js, Express, MongoDB</i></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🎓 <a href="https://github.com/24f2000311" style="color:#09090B; text-decoration:none;">PratibhaSetu</a></h4>
+      <h4>🎓 PratibhaSetu</h4>
       <p>Placement Management Portal with dedicated dashboards for Students, Recruiters, and Admins, plus workflow analytics.</p>
       <p><i>Vue.js, REST API, Database Integration</i></p>
     </td>
@@ -100,17 +242,35 @@
 
 ---
 
+## 📊 GitHub Analytics
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Stats themed to match the website: White Background, Dark Onyx Text, Emerald Green Accents -->
-  <img src="https://github-readme-stats.vercel.app/api?username=24f2000311&show_icons=true&theme=default&hide_border=true&bg_color=FBFBFB&title_color=09090B&icon_color=10B981&text_color=71717A" alt="Madhav's GitHub stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2000311&theme=default&hide_border=true&background=FBFBFB&ring=10B981&fire=10B981&currStreakLabel=09090B&sideLabels=71717A&dates=71717A" alt="Madhav's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=24f2000311&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" alt="Madhav's GitHub stats" />
+
+  <br/>
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=24f2000311&theme=onestar&no-frame=true&no-bg=true&margin-w=15" alt="Madhav's Trophies" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2000311&theme=default&hide_border=true&background=ffffff" alt="Madhav's GitHub streak" />
+  <!-- Stats side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=24f2000311&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0077B5" alt="Madhav's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2000311&theme=default&hide_border=true&background=ffffff&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="Madhav's GitHub streak" width="48%" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2000311&layout=compact&theme=default&hide_border=true&bg_color=ffffff" alt="Top Languages" />
 </div>
 
-<br>
+---
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=09090B&height=60&section=footer" alt="Footer">
-</p>
+<div align="center">
+  <i>Let's build something amazing together!</i> <br><br>
+  ⭐️ <b>Thanks for visiting my profile!</b> ⭐️
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" alt="Footer Wave">
+</div>
